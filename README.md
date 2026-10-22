@@ -13,6 +13,8 @@ indicando o status visualmente.
 **Status atual:** modelagem 3D concluída; eletrônica simulada,
 ainda não montada fisicamente.
 
+**Link de um vídeo demonstração no LinkedIn:** (https://lnkd.in/p/dquvfhU7)
+
 ## Estrutura
 - `inventor/` — arquivos nativos do Inventor (peças e montagem)
 - `step/` — peças exportadas em STEP, abríveis em qualquer CAD
