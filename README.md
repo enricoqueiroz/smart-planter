@@ -13,7 +13,7 @@ indicando o status visualmente.
 **Status atual:** modelagem 3D concluída; eletrônica simulada,
 ainda não montada fisicamente.
 
-**Link de um vídeo demonstração no LinkedIn:** (https://lnkd.in/p/dquvfhU7)
+**Link de um vídeo demonstração no LinkedIn:** https://lnkd.in/p/dquvfhU7
 
 ## Estrutura
 - `inventor/` — arquivos nativos do Inventor (peças e montagem)
